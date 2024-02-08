@@ -1,10 +1,10 @@
-#Автоматизация тестирования с помощью Selenium и Python
+# Автоматизация тестирования с помощью Selenium и Python
 
-##Установка Python
+## Установка Python
 brew install python3
 
-##Установка необходимых пакетов
+## Установка необходимых пакетов
 pip install -r requirements.txt
 
-##Обновление файла с пакетами
+## Обновление файла с пакетами
 pip freeze > requirements.txt
